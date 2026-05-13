@@ -15,26 +15,26 @@
 
 ### 1. Yandex Forms Ultimate Manager
 
-[Ссылка на установку](https://gitlab.com/tumowa13/Yandex-form-migrator-tampermonkey/-/raw/main/Yandex%20Forms%20Ultimate%20Manager.user.js)
+[Ссылка на установку](https://github.com/Timokaproka/Yandex-form-migrator-tampermonkey/raw/refs/heads/main/Yandex%20Forms%20Ultimate%20Manager.user.js)
 
 Главный скрипт для управления формами на стартовой странице сервиса. Добавляет систему чекбоксов (галочек) рядом с каждой формой и папкой. Позволяет выделить нужные элементы и применить к ним массовые действия: скачать архивом, загрузить новые или удалить.
 *Примечание: для максимально комфортной работы рекомендуется использовать этот скрипт в связке с Yandex Forms Migrator Single.*
 
 ### 2. Yandex Forms Migrator Single
 
-[Ссылка на установку](https://gitlab.com/tumowa13/Yandex-form-migrator-tampermonkey/-/raw/main/Yandex%20Forms%20Migrator%20Single.user.js)
+[Ссылка на установку](https://github.com/Timokaproka/Yandex-form-migrator-tampermonkey/raw/refs/heads/main/Yandex%20Forms%20Migrator%20Single.user.js)
 
 Скрипт для точечной работы внутри редактора конкретной формы. Добавляет функции импорта и экспорта непосредственно в меню настроек формы. Позволяет быстро выгрузить или заменить структуру текущей формы, не возвращаясь на главную страницу.
 
 ### 3. Yandex Forms JSON Preprocessor
 
-[Ссылка на установку](https://gitlab.com/tumowa13/Yandex-form-migrator-tampermonkey/-/raw/main/Yandex%20Forms%20JSON%20Preprocessor.user.js)
+[Ссылка на установку](https://github.com/Timokaproka/Yandex-form-migrator-tampermonkey/raw/refs/heads/main/Yandex%20Forms%20JSON%20Preprocessor.user.js)
 
 Конвертер данных для работы с нейросетями. Текстовые ИИ-модели не способны сразу выдать сложный системный код, который требует Яндекс. Этот скрипт берет упрощенный текстовый файл от нейросети и автоматически достраивает всю необходимую техническую архитектуру, превращая его в полноценную форму, готовую к импорту.
 
 ### 4. Yandex Forms Image Uploader
 
-[Ссылка на установку](https://gitlab.com/tumowa13/Yandex-form-migrator-tampermonkey/-/raw/main/Yandex%20Forms%20Image%20Uploader.user.js)
+[Ссылка на установку](https://github.com/Timokaproka/Yandex-form-migrator-tampermonkey/raw/refs/heads/main/Yandex%20Forms%20Image%20Uploader.user.js)
 
 Специализированная утилита для решения проблемы с изображениями при автоматическом создании форм.
 
